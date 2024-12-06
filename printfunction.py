@@ -4,3 +4,6 @@ print(1)
 apple=100
 print(apple)
 print("apple")
+
+
+
